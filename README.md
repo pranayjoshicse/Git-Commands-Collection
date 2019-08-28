@@ -47,11 +47,11 @@ Git is a distributed version control system, very easy to learn and supper fast!
 
 #### Install Git
 
-There are a few different ways to install git (from source or for Linux) but the purpose of this page is to focus on git commands, so I am going to assume you are installing git on a Mac.
+There are a few different ways to install git (from source or for Linux) but the purpose of this page is to focus on git commands, so I am going to assume you are installing git on a Windows.
 
 To view other ways of installing it visit the [Git official site](http://git-scm.com/book/en/Getting-Started-Installing-Git)
 
-Click [here](http://git-scm.com/download/mac) to download and install Git
+Click [here](https://git-scm.com/download/windows) to download and install Git
 
 ##### Setting up git
 
